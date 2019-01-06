@@ -10,4 +10,4 @@ Also I created the jupyter notebook for lesson 1 for Google Colab and run succes
 
 **Link to work:** 
 [GAN of MNIST](https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900)
-[GAN interesting prjects](https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900)
+[GAN interesting projects](https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900)
