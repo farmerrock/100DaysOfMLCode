@@ -16,3 +16,4 @@
 - [GAN of MNIST](https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900)
 - [GAN Interesting Projects](https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900)
 - [Fast.ai Teaching Material]
+- [Labradoodle Or Fried Chicken?](https://twitter.com/teenybiscuit/status/705232709220769792)
