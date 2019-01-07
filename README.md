@@ -15,5 +15,18 @@
 **Link to work:** 
 - [GAN of MNIST](https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900)
 - [GAN Interesting Projects](https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900)
-- [Fast.ai Teaching Material]
+- [Fast.ai Teaching Material](https://github.com/farmerrock/Deep_Learning_Fast_AI_Course)
 - [Labradoodle Or Fried Chicken?](https://twitter.com/teenybiscuit/status/705232709220769792)
+
+
+### Day 1: Jan 7, 2018
+
+**Today's Progress**: 
+- Preparing for the lesson note of first lesson for school of AI.
+
+**Thoughts:** 
+- Need further explaination of the basic machine learning knowledge and train/validation set in the first class.
+- The first homework can be training Labradoodle Or Fried Chicken.
+
+**Link to work:** 
+- [How (and why) to create a good validation set](https://www.fast.ai/2017/11/13/validation-sets/)
